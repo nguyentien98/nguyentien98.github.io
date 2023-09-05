@@ -58,7 +58,7 @@ em {
 .intro,
 .info {
   color: var(--text-color);
-  font-size: 10px;
+  font-size: 14px;
   margin: 0 auto;
 }
 
@@ -87,7 +87,6 @@ em {
 
 a {
   color: var(--links-color);
-  font-size: 10px;
   text-underline-offset: 2px;
 }
 
@@ -167,6 +166,7 @@ li {
 
 .event {
   padding: 8px;
+  font-size: 13px;
 }
 .hora {
   font-size: 14px;
