@@ -45,7 +45,7 @@ em {
   margin: 0 auto;
   max-width: 100%;
   width: 480px;
-  height: 600px;
+  height: 750px;
 }
 
 .content {
@@ -132,7 +132,7 @@ a:hover {
 .regalos,
 .actividades {
   background-image: url(fondo2-03.png);
-  background-size: 480px 600px;
+  background-size: 480px 750px;
 }
 
 /* UBICACIONES */
